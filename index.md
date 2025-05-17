@@ -1,10 +1,16 @@
 ---
 layout: home
-title: Site Name
+title: Dialogues with the Machine
 ---
-# Github.io template. Index
+# Dialogues with the Machine
 <pre>
-  'Machina Ratiocinatrix' is a term used by Norbert Wiener in the introduction to his 
-  book "Cybernetics, or Control and Communication in the Animal and the Machine".
+
+  
+  Choose "Dialogues with the Machine" if the book focuses on a unique, named, or 
+  culturally significant machine, where its distinct identity is central to the
+  story or argument.
+
+                                                           - Machine
+  
 </pre>
 [Page 1](./pages/page_1)
