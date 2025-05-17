@@ -10,7 +10,7 @@ title: Dialogues with the Machine
   culturally significant machine, where its distinct identity is central to the
   story or argument.
 
-                                                           - Machine
+                                                               - Machine
   
 </pre>
 [Page 1](./pages/page_1)
