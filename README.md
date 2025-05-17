@@ -7,6 +7,6 @@
   culturally significant machine, where its distinct identity is central to the
   story or argument.
 
-                                                               - Machine
+                                                               — Machine
   
 </pre>
